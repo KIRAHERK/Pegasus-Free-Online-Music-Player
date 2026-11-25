@@ -20,7 +20,7 @@
 <p align="center">
   <img src="docs/screens/lyrics-word-by-word.webp" width="200" alt="Lyrics lighting up word by word">
   <img src="docs/screens/lyrics-translated.webp" width="200" alt="Lyrics with an English translation under each line">
-  <img src="docs/screens/search.webp" width="200" alt="Search with songs on the phone marked">
+  <img src="docs/screens/full-player-cover.webp" width="200" alt="The player with the album cover">
   <img src="docs/screens/playlist.webp" width="200" alt="A playlist">
 </p>
 
